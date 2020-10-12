@@ -7,3 +7,4 @@ The dashboard has 3 components:
 * a map which present the beggining and end points of ship's movement. 
   * above the map there is a note which informes about the direct distance between the points on the map + the total distance travelled (both in meters)
 
+[link to dataset](https://drive.google.com/file/d/160JnqoQysqzvR1GBBnKJFKAew_v6TYli)
